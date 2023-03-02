@@ -9,8 +9,8 @@ This series will focus on exercises and practical computing on selected topics f
 
 | Topic | Date | Time | Instructor | Format | Registration |
 | ------| ---- | ----- | ---------- | -------- | ------- |
-| Intro to Statistics in R| Wednesday, March 1st | 9:00am-1:00pm | Gerardo Martinez | In-person | Closed |
-| Statistical Analysis in R | Friday, March 17th | 1:00-5:00pm | Alex Diaz-Papkovich | In-person | [Open](https://forms.gle/noM6JsuZFwiHkZDx9) |
+| Intro to Statistics in R| March 1st | 9:00am-1:00pm | Gerardo Martinez | In-person | Closed |
+| Statistical Analysis in R | March 17th | 1:00-5:00pm | Alex Diaz-Papkovich | In-person | [Open](https://forms.gle/noM6JsuZFwiHkZDx9) |
 | Introductory Microbial Bioinformatics | April 11th | 1:00-5:00pm | Michael Shamash | In-person | TBA |
 | scRNAseq analysis from CellRanger to Cluster Annotation | April 26th | 1:00-5:00pm | Rhalena Amber Thomas | In-person | TBA |
 
