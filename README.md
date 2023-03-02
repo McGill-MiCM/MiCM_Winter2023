@@ -1,7 +1,7 @@
 # Winter 2023 Workshop Series
 
 This repository contains all the materials of the Winter 2023 Workshop Series. 
-This series will focus on exercises and practical computing on selected topics from introduction to computing, topics and data science and applications in computational biology. We will finish the series with a omics bootcamp.
+This series will focus on exercises and practical computing on selected topics from introduction to computing, topics and data science and applications in computational biology.
 
 ## Schedule
 
